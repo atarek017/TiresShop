@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "453213665645",
+    "firebase_url": "https://kawetch-14034.firebaseio.com",
+    "project_id": "kawetch-14034",
+    "storage_bucket": "kawetch-14034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453213665645:android:37a5983789a6fe2c",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.kawetch3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453213665645-f1nr97a29270292due2lreunck97498q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWJyajzR6CpQDaO3P5vmr00PCCWbROSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453213665645:android:57b130527fee1ead",
+        "android_client_info": {
+          "package_name": "com.example.nerme.alabdallah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453213665645-f1nr97a29270292due2lreunck97498q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWJyajzR6CpQDaO3P5vmr00PCCWbROSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
